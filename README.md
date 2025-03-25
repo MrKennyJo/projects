@@ -1,8 +1,19 @@
-# kenny
+# Code Quality Checker
 
-## commands executed
+Kendall McCain  
+Email: mccaikab@uni.edu  
 
-1. git checkout -b activity1
-2. git add README.md
-3. git commit -m "Updated README.md with branch creation steps"
-4. git push origin activity1
+### Overview of this project
+
+```
+Setup:
+  Sets up the virtual environment and installs the needed dependencies
+Run:
+  It activates the virtual environment and runs the app.py script.
+Clean:
+  Removes the virtual environment and other build artifacts to clean up the code.
+```
+  
+
+
+
