@@ -1,0 +1,14 @@
+C0301 - Making sure that lines aren't too long makes it so your code 
+is more easily read and makes it easier to catch mistakes. (horizontal scrolling sucks)
+
+C0103 - Correctly named fuctions and variables seem very important it is also something that we have been taught since the
+beginning of our journey of becoming software enginneers. It just provides more clarity and erases confusion.
+
+W0611 - Unused imports just eliminated clutter and makes you code look better for reviewing and prevents unnecessary memory usage.
+
+R0913 - Having a dictionary with all necessary arguments just allows your code to be cleaner. It is unnecessary to have too many 
+arguments in one line of code it gets confusing and looks bad. passing a dictionary where it will just read the dictionary and it contains
+what you need is more efficient.
+
+E1101 - Creating classes or methods that tend to have no use in what you are trying to provide can lead to error in runtimes. Taking out unnecessary 
+code/methods allows for less typos and runtime to be less especially when your method is calculating something you wont return.
